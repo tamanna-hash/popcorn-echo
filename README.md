@@ -3,6 +3,10 @@
 A responsive movie/show browser built with React, Vite, Tailwind CSS, and the
 free [TVMaze API](https://www.tvmaze.com/api). No API key required.
 
+<img src="https://i.ibb.co.com/msWQP1t/Screenshot-2026-09-19-141007.png" height="300px" width="400px">
+
+🔗 **Live:** [https://popcorn-echo.vercel.app](https://popcorn-echo.vercel.app)
+
 ## Features
 
 - **Home page** — hero with a floating poster collage pulled live from the
